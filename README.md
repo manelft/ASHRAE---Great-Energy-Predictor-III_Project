@@ -2,12 +2,12 @@
 In this Project , I developed an lstm model to predict metered building energy usage.
 
 This project was built using these different libraries:
-pandas :for data manipulation and analysis
-matplotlib : for plotting
-numpy :for tools to work with arrays
-math :for the square mean and std function
-seaborn :for data visualization
-sklearn.impute import SimpleImputer : filling missing values with another value
+pandas :for data manipulation and analysis /
+matplotlib : for plotting /
+numpy :for tools to work with arrays /
+math :for the square mean and std function /
+seaborn :for data visualization /
+sklearn.impute import SimpleImputer : filling missing values with another value /
 
 For modeling we used keras and these different 
 keras.models import Sequential
